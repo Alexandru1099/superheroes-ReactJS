@@ -7,12 +7,18 @@ A React application that interacts with the Humble Superhero API, allowing users
 git clone https://github.com/username/humble-superhero-ui.git
 cd humble-superhero-ui
 npm install
+```
 
 ## Configuration
+```
 - Modify if is necesary the constant from src/constants.ts file
+```
 
 ## Running App
+```
 npm run dev
+
+```
 
 ## Expanding the ESLint configuration
 
