@@ -4,7 +4,7 @@ A React application that interacts with the Humble Superhero API, allowing users
 
 ## Installation
 ```bash
-git clone https://github.com/username/humble-superhero-ui.git
+git clone https://github.com/Alexandru1099/superheroes-ReactJS.git
 cd humble-superhero-ui
 npm install
 ```
