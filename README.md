@@ -1,11 +1,18 @@
 # React + TypeScript + Vite
+## Description
+A React application that interacts with the Humble Superhero API, allowing users to add and list superheroes, sorted by their humility score.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Installation
+```bash
+git clone https://github.com/username/humble-superhero-ui.git
+cd humble-superhero-ui
+npm install
 
-Currently, two official plugins are available:
+## Configuration
+- Modify if is necesary the constant from src/constants.ts file
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Running App
+npm run dev
 
 ## Expanding the ESLint configuration
 
